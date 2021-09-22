@@ -20,7 +20,6 @@ public class GamePlay extends JFrame {
 
     GroupLayout jFrameRTPLayout, jFrame15PLayout;
 
-
     JMenu jMenuMainGame, jMenuGame;
     JMenuBar jMenuBarMain;
     JMenuItem jMenuItemGameRTP, jMenuItemGame15P, jMenuItemExit;
