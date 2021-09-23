@@ -72,7 +72,7 @@ Download and install the Java environment on your computer:
 * [For Linux](https://www.oracle.com/java/technologies/downloads/#jdk17-linux)
 ### Installation
 
-* Download the latest release: [v1.0-alpha](https://github.com/xuancanhit99/MiniChessAnd15Puzzle/releases/tag/v1.0-alpha)
+* Download the latest release: [v1.0-alpha-MiniChessAnd15Puzzle.exe](https://github.com/xuancanhit99/MiniChessAnd15Puzzle/releases/download/v1.0-alpha/v1.0-alpha-MiniChessAnd15Puzzle.exe)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
