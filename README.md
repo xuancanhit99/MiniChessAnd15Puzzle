@@ -65,7 +65,7 @@ Here are 2 mini-games written on Java platform:
 
 ### Prerequisites
 
-Download and install the Java environment on your computer.
+Download and install the Java environment on your computer:
 
 * [For Windows](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 * [For macOS](https://www.oracle.com/java/technologies/downloads/#jdk17-mac)
@@ -76,7 +76,7 @@ Download and install the Java environment on your computer.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-How to play
+How to play?
 1. 15 Puzzle - Пятнашки
     * ![english] When you press the "Go to game" button, a 3x3 playing field with figures standing on it will appear in front of you. Your task is to move the upper pieces down, and the upper ones up, the game is considered over if all the pieces are rearranged. Also, your moves will be shown in the table on the side.
     * ![russian] При нажатии кнопки "Перейти к игре" перед вами появится игровое поле 3х3 со стоящими на нем фигурами. Ваша задача заключается в том, чтобы перенести верхние фигуры вниз, а верхние вверх, игра считается оконченной если переставлены все фигуры.Так же, в таблице сбоку будут показываться ваши ходы.
