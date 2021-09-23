@@ -451,7 +451,7 @@ public class GamePlay extends JFrame {
         );
         pack();
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Курсовая работа");
+        setTitle("Mini Chess & 15 Puzzle");
         setLocationRelativeTo(null);
     }
 
